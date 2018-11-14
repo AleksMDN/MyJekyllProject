@@ -1,0 +1,998 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"dest"
+			],
+			[
+				"re",
+				"rename"
+			],
+			[
+				"c",
+				"cssnano"
+			],
+			[
+				"sr",
+				"script\tHTML - Script"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"u",
+				"uglify"
+			],
+			[
+				"t",
+				"task"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"g",
+				"gulp"
+			],
+			[
+				"aj",
+				"ajax\tGoogle AJAX Libraries: jQuery UI"
+			],
+			[
+				"bs3-in",
+				"bs3-input:checkbox\tbs3-input-checkbox"
+			],
+			[
+				"bs-",
+				"bs3-cdn\tbs3-cdn"
+			],
+			[
+				"bs3",
+				"bs3-col\tbs3-col"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d-i",
+				"d-ib\tdisplay: inline-block;"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"sc",
+				"script\t<script>"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"s",
+				"sayHi"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"fi",
+				"fixed-top\t(TestNavBar.html)"
+			],
+			[
+				"navbar-br",
+				"navbar-brand\t(TestNavBar.html)"
+			],
+			[
+				"na",
+				"navbar-dark\t(TestNavBar.html)"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"st",
+				"style\tHTML - Stylesheet link"
+			],
+			[
+				"image",
+				"image/"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"im",
+				"img\tImage - Placeholder"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"w",
+				"w-a\twidth: auto;"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bs4",
+				"b4:template:starter\tstarter"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"do",
+				"doctype\tDOCTYPE HTML"
+			],
+			[
+				"img",
+				"img\tHTML - Image"
+			],
+			[
+				"style",
+				"style\t<style>"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"H",
+				"HEADER\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_site/index.html",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bs3-t",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"boot",
+				"Snippet: Google AJAX Libraries: Prototype"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Install Package Control"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 552.0,
+		"history":
+		[
+			"gulp scripts"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/MyJek",
+		"/D/MyJek/_site"
+	],
+	"file_history":
+	[
+		"/D/Bootstrap4/bootstrap-4.1.3/package.json",
+		"/D/Bootstrap4/start_template/b4/gulpfile.js",
+		"/D/Bootstrap4/start_template/b4/package.json",
+		"/D/Bootstrap4/b4.sublime-project",
+		"/D/Bootstrap4/start_template/b4/src/Bootstrap4.sublime-project",
+		"/D/Gulp/MyFirstProject/app/css/libs.css",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/auto_save.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/auto-save/auto_save.sublime-settings",
+		"/D/Gulp/node-graceful-fs-master/node-graceful-fs-master/graceful-fs.js",
+		"/D/Gulp/MyFirstProject/node_modules/graceful-fs/polyfills.js",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/BootstrapWeb/index.html",
+		"/D/xampp/htdocs/KpacNm/index.html",
+		"/D/xampp/htdocs/KpacNm/Порошковая покраска металлических изделий за 1 день PROCRAS.RU_files/hunter.html",
+		"/D/xampp/htdocs/KpacNm/Порошковая покраска металлических изделий за 1 день PROCRAS.RU.html",
+		"/D/xampp/htdocs/jquery_test/index.html",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/D/xampp/htdocs/ajax/test/index.html",
+		"/D/xampp/htdocs/test/index.html",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Installed Packages/Bootstrap 4 Autocomplete.sublime-package",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Installed Packages/Bootstrap 3 Autocomplete.sublime-package",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter.sublime-package",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/colorcoder.sublime-settings",
+		"/D/JavaScriptBook/Test/site_js_menu/style.css",
+		"/D/JavaScriptBook/Test/site_js_menu/index.html",
+		"/D/JavaScriptBook/Test/site_js_menu/script.js",
+		"/D/SL3_Project/SL_TECH_BS.sublime-project",
+		"/D/BootstrapWeb/TeachBS/css/bootstrap.css",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/JavaScriptBook/Берб Бибо, Иегуда Кац - jQuery. Подробное руководство по продвинутому JavaScript (High Tech) - 2011/source code/chapter1/listing-1.1.html",
+		"/D/JavaScriptBook/Берб Бибо, Иегуда Кац - jQuery. Подробное руководство по продвинутому JavaScript (High Tech) - 2011/source code/index.html",
+		"/D/Nodejs/work/user.js",
+		"/D/Nodejs/work/server.js",
+		"/D/WebFromZ/TutorWeb/www2/index.html",
+		"/D/WebFromZ/TutorWeb/index.html",
+		"/D/WebFromZ/TutorWeb/css/style.css",
+		"/D/Whitesquare/whitesquare-native-master/whitesquare-native-master/www/cssgrid.html",
+		"/D/WebFromZ/dopmat/dopmat/verstka/index.html",
+		"/D/Whitesquare/whitesquare-native-master/whitesquare-native-master/www/css/stylegrid.css",
+		"/D/Whitesquare/whitesquare-native-master/whitesquare-native-master/www/index.html",
+		"/D/Whitesquare/whitesquare-native-master/whitesquare-native-master/www/css/styles.css",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/BootstrapWeb/HTMLACADEMY/TestSite/index.html",
+		"/D/BootstrapWeb/HTMLACADEMY/site/index.html",
+		"/D/Qt/myproject/readme.md",
+		"/D/BootstrapWeb/HTMLACADEMY/site/git-aleks/dev1/read2.txt",
+		"/D/BootstrapWeb/HTMLACADEMY/site/git-aleks/dev1/readme.txt",
+		"/D/git_tutorial/work/hello/hello.html",
+		"/D/BootstrapWeb/HTMLACADEMY/ASPTutorial/webpage.asp",
+		"/D/DownLoadFireFox/git_tutorial/git_tutorial/work/hello/hello.html",
+		"/D/WebFromZ/css_4e-master/css_4e-master/README.txt",
+		"/D/WebFromZ/css_4e-master/css_4e-master/README.md",
+		"/D/BootstrapWeb/HTMLACADEMY/indexRelPos.html",
+		"/D/BootstrapWeb/HTMLACADEMY/site/css/style20.css",
+		"/D/WebFromZ/form_html5_css3/demo/index.html",
+		"/D/BootstrapWeb/HTMLACADEMY/css/style20.css",
+		"/D/BootstrapWeb/HTMLACADEMY/index17.html",
+		"/D/BootstrapWeb/HTMLACADEMY/index20.html",
+		"/D/BootstrapWeb/HTMLACADEMY/index20_1.html",
+		"/D/BootstrapWeb/HTMLACADEMY/img/morozov.jpg",
+		"/D/BootstrapWeb/HTMLACADEMY/css/style.css",
+		"/D/BootstrapWeb/HTMLACADEMY/index.html",
+		"/D/BootstrapWeb/HTMLACADEMY/css/style1.css",
+		"/D/BootstrapWeb/HTMLACADEMY/index2.html",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Installed Packages/HTML5.sublime-package",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/D/BootstrapWeb/HTMLACADEMY/test.html",
+		"/D/BootstrapWeb/TeachBS/test.html",
+		"/D/BootstrapWeb/site2/test_index.html",
+		"/D/BootstrapWeb/TeachBS/css/htmlcss.css",
+		"/D/BootstrapWeb/site2/index.html",
+		"/D/BootstrapWeb/sitebs/css/style.css",
+		"/D/BootstrapWeb/sitebs/bsindex.html",
+		"/D/BootstrapWeb/sitebs/index.html",
+		"/D/My Web Sites/EmptySite3/index.html",
+		"/D/BootstrapWeb/Tryit Editor v3.5.html",
+		"/D/MyNetHouse/view-source_https___aleksdo.nethouse.ru.html",
+		"/D/MyNetHouse/site/Сайт/index.html",
+		"/D/DownLoadFireFox/HTML5Css_code/Responsive Web Design with HTML5 and CSS3 Second Edition_Code/Chapter 1/index.html",
+		"/D/My Web Sites/JQuery_code/Code/Chapter 1/index.html",
+		"/D/My Web Sites/space_demo/site/index.html",
+		"/D/ST3/test/index.html",
+		"/D/My Web Sites/Chapter-02/template.html",
+		"/D/My Web Sites/Chapter-02/index.html",
+		"/D/ST3/test/style.css",
+		"/D/My Web Sites/practical-web-design-for-abs-begs-master/practical-web-design-for-abs-begs-master/Source Code/Chapter-01/Chapter-01/style.css",
+		"/D/My Web Sites/practical-web-design-for-abs-begs-master/practical-web-design-for-abs-begs-master/Source Code/Chapter-01/Chapter-01/template.html",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/win8/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/D/WebFromZ/dopmat/dopmat/verstka/style.css",
+		"/D/FSsharpScript/Generators.fsx"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_site/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										229,
+										233
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										291,
+										292
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										221,
+										222
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 100.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 369.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 495.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 244.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "MyJek.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
